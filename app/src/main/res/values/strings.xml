@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Permission</string>
+    <string name="fotocamera">Fotocamera attivata</string>
+    <string name="attention">Attenzione</string>
+</resources>
